@@ -1,2 +1,2 @@
 # Hangman
-My little Hangman game
+My little Hangman game...
